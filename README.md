@@ -1,4 +1,4 @@
-# How to Become Rich
+# mavenRepository Test
 
 This is a tutorial about how to publish a Maven artifact to GitHub:
 
